@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "aius"
+version = "0.0.0"
+description = "AI for us: The memory system for your AI agents, superagents, assistants, and LLMs"
+authors = ["Mark Bain <markmbain1@gmail.com>"]
+license = "MIT"
+packages = [{include = "aius", from = "src"}]
+readme = "README.md"
+
+[tool.poetry.urls]
+Homepage = "https://getaius.com"
+Repository = "https://github.com/markmbain/aius"
+# Documentation = "https://github.com/markmbain/src/aius/docs"
+
+[tool.poetry.dependencies]
+python = ">=3.8.1,<4.0"
+pydantic = "^2.8.2"
+
+[tool.poetry.group.dev.dependencies]
+mkdocs = "^1.6.0"
+
+[tool.poetry.group.test.dependencies]
+pytest = "^8.3.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
