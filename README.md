@@ -1,5 +1,5 @@
 _<p align="center">
-	<img src="assets/images/aius-black.png" width="72px" alt="AIUS Logo">
+	<img src="https://github.com/markmbain/aius/blob/main/assets/images/aius/aius-black.png" width="72px" alt="AIUS Logo">
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ pip install aius
 ---
 
 # 🔗 Join the community
-- 🌐 (URL/Web): Visit: https://getaius.com
+- 🌐 (URL/Web): Visit: https://aius.co
 - 💬 (Discord): Chat: https://discord.gg/cM6vFhJbWS
 - ❌ (X/Twitter): Follow: https://x.com/markmbain
 - 🔗 (LinkedIn): Follow: https://www.linkedin.com/company/aius-ai
@@ -99,7 +99,7 @@ pip install aius
 
 ---
 
-# 🤝 Contribution
+# 🤝 Contribute
 - ⭐️ Star the repo and become one of our [Stargazers](https://github.com/markmbain/aius/stargazers)
 - 💬 [Join our discord](https://discord.gg/cM6vFhJbWS) to chat with the growing community about designs, contribution and use cases
 - Clone: `git clone git@github.com:markmbain/aius.git` and play around

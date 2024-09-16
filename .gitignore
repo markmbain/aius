@@ -142,3 +142,4 @@ dmypy.json
 # Local dev dirs
 /dev
 /dev-docs
+/.pypi/
