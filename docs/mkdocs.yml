@@ -1,0 +1,33 @@
+# Project Information
+site_name: AIUS Documentation
+site_url: https://docs.aius.co
+repo_url: https://github.com/markmbain/aius
+
+# Build Configuration
+docs_dir: content
+site_dir: site
+
+# Theme
+theme:
+  name: material
+  version: 6.2.0
+nav:
+  - Getting started: index.md
+#  - Beings: beings/beings.md
+#  - Input sensors:
+#      - CLI: input_sensors/cli.md
+#      - Web servers: input_sensors/web_server.md
+#  - Log Processing:
+#      - Language Models: log_processing/language_models.md
+#      - Embeddings: log_processing/embeddings.md
+#  - Log Memory:
+#      Storage: log_memory/memory_storage.md
+#  - Output tools:
+#      - Tools: output_tools/output_tools.md
+  - Release Notes: release-notes.md
+
+# GitHub Pages Configuration
+gh-deploy:
+  repo: 'https://github.com/markmbain/aius'
+  branch: 'main'
+  dest: 'site'
