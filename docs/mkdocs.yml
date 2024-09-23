@@ -31,3 +31,17 @@ gh-deploy:
   repo: 'https://github.com/markmbain/aius'
   branch: 'main'
   dest: 'site'
+
+extra:
+#  analytics:
+#    provider: google
+#    property: G-PROVIDECODE
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/cM6vFhJbWS
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/markmbain
+    - icon: fontawesome/brands/github
+      link: https://github.com/markmbain/aius
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/aius-ai
