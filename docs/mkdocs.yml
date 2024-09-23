@@ -14,8 +14,8 @@ theme:
 nav:
   - Getting started: index.md
 #  - Beings: beings/beings.md
-#  - Input sensors:
-#      - CLI: input_sensors/cli.md
+  - Input sensors:
+      - CLI: input_sensors/cli/cli.md
 #      - Web servers: input_sensors/web_server.md
 #  - Log Processing:
 #      - Language Models: log_processing/language_models.md

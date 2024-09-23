@@ -15,6 +15,7 @@ Repository = "https://github.com/markmbain/aius"
 [tool.poetry.dependencies]
 python = ">=3.8.1,<4.0"
 pydantic = "^2.8.2"
+click = "^8.1.7"
 
 [tool.poetry.group.dev.dependencies]
 mkdocs = "^1.6.0"
@@ -22,6 +23,9 @@ mkdocs-material = "^9.5.34"
 
 [tool.poetry.group.test.dependencies]
 pytest = "^8.3.2"
+
+[tool.poetry.scripts]
+aius = "aius.input_sensors.cli.console:AIUS"
 
 [build-system]
 requires = ["poetry-core"]
