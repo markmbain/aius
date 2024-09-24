@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docs.aius.co/</loc>
-         <lastmod>2024-09-18</lastmod>
+         <lastmod>2024-09-24</lastmod>
     </url>
     <url>
          <loc>https://docs.aius.co/release-notes/</loc>
-         <lastmod>2024-09-18</lastmod>
+         <lastmod>2024-09-24</lastmod>
     </url>
     <url>
          <loc>https://docs.aius.co/beings/assistant_aize/</loc>
-         <lastmod>2024-09-18</lastmod>
+         <lastmod>2024-09-24</lastmod>
     </url>
     <url>
          <loc>https://docs.aius.co/beings/beings/</loc>
-         <lastmod>2024-09-18</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.aius.co/input_sensors/cli/</loc>
-         <lastmod>2024-09-18</lastmod>
+         <lastmod>2024-09-24</lastmod>
     </url>
     <url>
          <loc>https://docs.aius.co/input_sensors/web_server/</loc>
-         <lastmod>2024-09-18</lastmod>
+         <lastmod>2024-09-24</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.aius.co/input_sensors/cli/cli/</loc>
+         <lastmod>2024-09-24</lastmod>
     </url>
     <url>
          <loc>https://docs.aius.co/log_memory/memory_storage/</loc>
-         <lastmod>2024-09-18</lastmod>
+         <lastmod>2024-09-24</lastmod>
     </url>
     <url>
          <loc>https://docs.aius.co/log_processing/embeddings/</loc>
-         <lastmod>2024-09-18</lastmod>
+         <lastmod>2024-09-24</lastmod>
     </url>
     <url>
          <loc>https://docs.aius.co/log_processing/language_models/</loc>
-         <lastmod>2024-09-18</lastmod>
+         <lastmod>2024-09-24</lastmod>
     </url>
     <url>
          <loc>https://docs.aius.co/output_tools/output_tools/</loc>
-         <lastmod>2024-09-18</lastmod>
+         <lastmod>2024-09-24</lastmod>
     </url>
 </urlset>
